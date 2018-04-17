@@ -1,10 +1,17 @@
+### This is clone of Don's repo, since he discontinued the developement, and fix I have applied had to be done to continue using the plugin in newer ionic environments 
+
+Issue fixed:
+https://github.com/don/cordova-filechooser/issues/33
+https://github.com/don/cordova-filechooser/issues/30
+
+
 Cordova FileChooser Plugin
 
 Requires Cordova >= 2.8.0
 
 Install with Cordova CLI
 	
-	$ cordova plugin add http://github.com/luckylooke/cordova-filechooser.git
+	$ cordova plugin add https://github.com/luckylooke/cordova-filechooser.git
 
 Install with Plugman 
 
