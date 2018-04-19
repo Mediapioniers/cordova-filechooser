@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
-  "name": "cordova-filechooser",
+  "name": "cordova-plugin-filechooser",
   "author": "don.coleman@gmail.com",
   "cordova": {
-    "id": "cordova-filechooser",
+    "id": "cordova-plugin-filechooser",
     "platforms": [
       "android"
     ]
   },
   "description": "Cordova Plugin that supplies a File Chooser",
   "license": "Apache License, Version 2.0",
-  "repo": "https://github.com/don/cordova-filechooser",
+  "repo": "https://github.com/luckylooke/cordova-filechooser",
   "issue": "https://github.com/don/cordova-filechooser/issues",
   "keywords": [],
   "engines": [
